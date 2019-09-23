@@ -1,0 +1,163 @@
+/* 1 2015*/
+{
+    "_id": {
+        "Month": 8,
+        "Temperature": 100
+    },
+    "count": 3784
+},
+/* 2 */
+{
+    "_id": {
+        "Month": 3,
+        "Temperature": 100
+    },
+    "count": 3676
+},
+/* 3 */
+{
+    "_id": {
+        "Month": 5,
+        "Temperature": 100
+    },
+    "count": 3629
+},
+/* 4 */
+{
+    "_id": {
+        "Month": 6,
+        "Temperature": 100
+    },
+    "count": 3803
+},
+/* 5 */
+{
+    "_id": {
+        "Month": 11,
+        "Temperature": 100
+    },
+    "count": 3858
+},
+/* 6 */
+{
+    "_id": {
+        "Month": 10,
+        "Temperature": 100
+    },
+    "count": 3579
+},
+/* 7 */
+{
+    "_id": {
+        "Month": 4,
+        "Temperature": 100
+    },
+    "count": 3752
+},
+/* 8 */
+{
+    "_id": {
+        "Month": 2,
+        "Temperature": 100
+    },
+    "count": 3811
+},
+/* 9 */
+{
+    "_id": {
+        "Month": 7,
+        "Temperature": 100
+    },
+    "count": 3793
+},
+/* 10 */
+{
+    "_id": {
+        "Month": 1,
+        "Temperature": 100
+    },
+    "count": 880
+},
+/* 11 */
+{
+    "_id": {
+        "Month": 9,
+        "Temperature": 100
+    },
+    "count": 3785
+}
+
+
+
+/* 1 2016 */
+{
+    "_id": {
+        "Month": 8,
+        "Temperature": 100
+    },
+    "count": 2583
+},
+/* 2 */
+{
+    "_id": {
+        "Month": 3,
+        "Temperature": 100
+    },
+    "count": 3573
+},
+/* 3 */
+{
+    "_id": {
+        "Month": 5,
+        "Temperature": 100
+    },
+    "count": 3773
+},
+/* 4 */
+{
+    "_id": {
+        "Month": 6,
+        "Temperature": 100
+    },
+    "count": 3776
+},
+/* 5 */
+{
+    "_id": {
+        "Month": 4,
+        "Temperature": 100
+    },
+    "count": 3778
+},
+/* 6 */
+{
+    "_id": {
+        "Month": 2,
+        "Temperature": 100
+    },
+    "count": 3874
+},
+/* 7 */
+{
+    "_id": {
+        "Month": 7,
+        "Temperature": 100
+    },
+    "count": 3817
+},
+/* 8 */
+{
+    "_id": {
+        "Month": 0,
+        "Temperature": 100
+    },
+    "count": 3752
+},
+/* 9 */
+{
+    "_id": {
+        "Month": 1,
+        "Temperature": 100
+    },
+    "count": 3531
+}
